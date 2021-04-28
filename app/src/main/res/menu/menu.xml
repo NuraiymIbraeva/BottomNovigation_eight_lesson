@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/list_item"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="List"
+
+
+        />
+    <item
+        android:id="@+id/list_item_two"
+        android:icon="@drawable/ic_baseline_add_a_photo_24"
+        android:title="Images"
+
+
+        />
+    <item
+        android:id="@+id/list_item_third"
+        android:icon="@drawable/ic_baseline_textsms_24"
+        android:title="Text"
+
+
+        />
+
+
+</menu>
